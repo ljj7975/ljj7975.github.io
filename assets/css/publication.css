@@ -1,0 +1,13 @@
+
+.remove_underline {
+    text-decoration:none;
+}
+
+.equal_contribution {
+    font-size: 15px !important;
+}
+
+.appendix {
+    font-style: italic;
+    font-size: 15px !important;
+}

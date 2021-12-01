@@ -1958,7 +1958,7 @@ input, select, textarea {
 
 	.wrapper {
 		position: relative;
-		padding: 6em 0 9em 0;
+		padding: 6em 0 2em 0;
 	}
 
 		.wrapper .title {
@@ -3160,20 +3160,21 @@ input, select, textarea {
 #pub-section {
     text-align: left;
     width: 100%;
-    padding-top: 2em;
-    padding-bottom: 2em;
+    padding-top: 1.5em;
+    padding-left: 20em;
+    padding-bottom: 1em;
     margin-left: 10%;
     margin-right: 10%;
 }
     #pub-section h3{
         font-weight: 600;
-        font-size: 20px;
+        font-size: 23px;
         line-height: 2;
     }
 
     #pub-section p{
         font-weight: 500;
-        font-size: 16px;
+        font-size: 20px;
     }
 
 
