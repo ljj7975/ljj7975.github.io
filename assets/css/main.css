@@ -1964,14 +1964,14 @@ input, select, textarea {
 		.wrapper .title {
 			position: absolute;
 			top: 0;
-			left: 50%;
+			left: 55%;
 			text-align: center;
 			text-transform: uppercase;
 			display: block;
 			font-weight: 700;
 			letter-spacing: 0.25em;
-			font-size: 0.9em;
-			width: 25em;
+			font-size: 1.3em;
+			width: 17em;
 			height: 3.25em;
 			top: -3.25em;
 			line-height: 3.25em;
