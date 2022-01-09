@@ -3187,4 +3187,14 @@ input, select, textarea {
         font-size: 20px;
     }
 
+    #pub-section a {
+      color: #707070
+    }
 
+    #pub-section p strong {
+      color: #707070
+    }
+
+    #pub-section a:hover, a:active {
+      color: black;
+    }
