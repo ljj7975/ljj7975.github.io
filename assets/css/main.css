@@ -2280,7 +2280,7 @@ input, select, textarea {
 				padding: 5em 0;
 			}
                 #social {
-                    margin-left: 3em;
+                    padding-left: 37%;
                 }
 				#Aboutme .image {
 					margin: 0 auto 2em auto;
