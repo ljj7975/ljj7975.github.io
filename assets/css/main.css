@@ -2115,7 +2115,7 @@ input, select, textarea {
             display:inline-block;
         }
 	#Aboutme {
-		padding: 10em 0 10em 0;
+		padding: 10em 0 3em 0;
 		text-align: left;
 	}
 
@@ -2152,14 +2152,27 @@ input, select, textarea {
         padding-bottom: 0.5em;
         text-align: left;
         color:gray;
-        text-emphasis-style: filled;
     }
+
     #Pub h2 {
         padding-bottom: 0.5em;
         text-align: left;
-        color:lightslategray;
+        color:slategray;
         text-emphasis-style: filled;
     }
+
+    #Exp h1 {
+        padding-bottom: 0.5em;
+        text-align: left;
+        color:gray;
+    }
+
+    #Projects h1 {
+        padding-bottom: 0.5em;
+        text-align: left;
+        color:gray;
+    }
+
     #dev {
         padding-bottom: 1.5em;
         font-family: sans-serif;
@@ -2244,11 +2257,11 @@ input, select, textarea {
 
 		/* Articles */
 
-			#top {
+			#Aboutme {
 				padding: 8em 0;
 			}
 
-				#top .image {
+				#Aboutme .image {
 					width: 24em;
 					height: 24em;
 					margin: 0;
@@ -2262,12 +2275,12 @@ input, select, textarea {
 
 		/* Articles */
 
-			#top {
+			#Aboutme {
 				text-align: center;
 				padding: 5em 0;
 			}
 
-				#top .image {
+				#Aboutme .image {
 					margin: 0 auto 2em auto;
 				}
 
@@ -2442,11 +2455,11 @@ input, select, textarea {
 
 		/* Articles */
 
-			#top {
+			#Aboutme {
 				padding: 3em 0;
 			}
 
-				#top .image {
+				#Aboutme .image {
 					width: 15em;
 					height: 15em;
 					margin-bottom: 0;
