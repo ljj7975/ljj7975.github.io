@@ -2276,10 +2276,12 @@ input, select, textarea {
 		/* Articles */
 
 			#Aboutme {
-				text-align: center;
+/*				text-align: left;*/
 				padding: 5em 0;
 			}
-
+                #social {
+                    margin-left: 5em;
+                }
 				#Aboutme .image {
 					margin: 0 auto 2em auto;
 				}
@@ -2465,7 +2467,7 @@ input, select, textarea {
 					margin-bottom: 0;
 				}
 
-				#top p {
+				#Aboutme p {
 					font-size: 1em;
 				}
 
