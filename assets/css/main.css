@@ -2114,7 +2114,8 @@ input, select, textarea {
             color: black;
             padding-bottom:1vh;
             display:inline-block;
-            font-size: 18px;
+            font-size: 1.1em;
+            text-decoration: none;
         }
 	#Aboutme {
 		padding: 10em 0 3em 0;
@@ -2159,7 +2160,7 @@ input, select, textarea {
     #Pub h2 {
         padding-bottom: 0.5em;
         text-align: left;
-        color:slategray;
+        color:darkgrey;
         text-emphasis-style: filled;
     }
 
