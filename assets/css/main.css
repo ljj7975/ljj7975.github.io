@@ -2079,7 +2079,8 @@ input, select, textarea {
 
 			#nav a:hover {
 				color: #fff !important;
-				background: #383838;
+/*				background: #383838;*/
+				background-color: dimgray;
 			}
 
 			#nav a.active {
@@ -2105,9 +2106,11 @@ input, select, textarea {
 	}
 
     #social {
-        padding: 1em 0 2em 5em;
+        padding: 1em 0 2em 6em;
         font-family: sans-serif;
         font-size: 18px;
+        width: 20em;
+        height: 12em;
     }
         #social a {
             color: black;
@@ -2185,6 +2188,10 @@ input, select, textarea {
 
         #dev p {
             font-size: 1.1em;
+        }
+
+        #dev a {
+            color: dimgray;
         }
 
 /* Copyright */
