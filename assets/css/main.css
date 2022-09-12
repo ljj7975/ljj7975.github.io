@@ -2117,6 +2117,9 @@ input, select, textarea {
             font-size: 1.1em;
             text-decoration: none;
         }
+        #social i {
+            text-decoration: none;
+        }
 	#Aboutme {
 		padding: 10em 0 3em 0;
 		text-align: left;
