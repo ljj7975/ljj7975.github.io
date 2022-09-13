@@ -2505,3 +2505,7 @@ input, select, textarea {
 					}
 
 	}
+
+	.remove_underline {
+		text-decoration:none;
+	}
