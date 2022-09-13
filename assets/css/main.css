@@ -2167,6 +2167,10 @@ input, select, textarea {
         text-emphasis-style: filled;
     }
 
+	#Pub h3 {
+        margin-bottom: 0.25em;
+    }
+
     #Exp h1 {
         padding-bottom: 0.5em;
         text-align: left;
