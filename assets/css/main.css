@@ -1,12 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700");
 @import url("fontawesome-all.min.css");
 
-/*
-	Miniport by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -230,7 +224,7 @@ input, select, textarea {
 	}
 
 		.container.medium {
-			width: 940px;
+			width: 900px;
 		}
 
 		@media screen and (max-width: 1680px) {
@@ -240,7 +234,7 @@ input, select, textarea {
 			}
 
 				.container.medium {
-					width: 940px;
+					width: 900px;
 				}
 
 		}
@@ -252,7 +246,7 @@ input, select, textarea {
 			}
 
 				.container.medium {
-					width: 720px;
+					width: 850px;
 				}
 
 		}
@@ -1989,7 +1983,7 @@ input, select, textarea {
 	.wrapper {
 		background-image: url("images/bg.png");
 		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
-		padding: 5em 0 2em 0;
+		padding: 8em 0 8em 0;
 		text-align: center;
 	}
 
@@ -2105,23 +2099,7 @@ input, select, textarea {
 		margin-bottom: 0;
 	}
 
-    #social {
-        padding-left: 27%;
-        margin-right: 1.3em;
-        font-family: sans-serif;
-    }
-        #social a {
-            color: black;
-            padding-bottom:1vh;
-            display:inline-block;
-            font-size: 1.1em;
-            text-decoration: none;
-        }
-        #social i {
-            text-decoration: none;
-        }
 	#Aboutme {
-		padding: 5em 0 3em 0;
 		text-align: left;
 	}
 
@@ -2150,6 +2128,25 @@ input, select, textarea {
 				color: inherit;
 			}
 
+    #social {
+        margin-right: 1.3em;
+        font-family: sans-serif;
+        width: 10em;
+        margin: 0 auto;
+        position: relative;
+        
+    }
+        #social a {
+            color: black;
+            padding-bottom:1vh;
+            display:inline-block;
+            font-size: 1.1em;
+            text-decoration: none;
+        }
+        #social i {
+            text-decoration: none;
+        }
+
 	#contact footer {
 		font-size: 0.9em;
 	}
@@ -2159,7 +2156,7 @@ input, select, textarea {
         text-align: left;
         color:gray;
     }
-
+    
     #Pub h2 {
         padding-bottom: 0.5em;
         text-align: left;
@@ -2167,7 +2164,7 @@ input, select, textarea {
         text-emphasis-style: filled;
     }
 
-	#Pub h3 {
+    #Pub h3 {
         margin-bottom: 0.25em;
     }
 
@@ -2175,6 +2172,10 @@ input, select, textarea {
         padding-bottom: 0.5em;
         text-align: left;
         color:gray;
+    }
+
+    #Exp h3 {
+        padding-top: 0.8em;
     }
 
     #Projects h1 {
@@ -2189,6 +2190,10 @@ input, select, textarea {
         color: #404040;
         text-align: left;
     }
+        #dev h3 {
+            font-size: 1.3em;
+        }
+
         #dev h4 {
             font-size: 1.2em;
         }
@@ -2272,7 +2277,7 @@ input, select, textarea {
 		/* Articles */
 
 			#Aboutme {
-				padding: 8em 0;
+				padding: 4em 0;
 			}
 
 				#Aboutme .image {
@@ -2280,7 +2285,6 @@ input, select, textarea {
 					height: 24em;
 					margin: 0;
 				}
-
 	}
 
 /* Medium */
@@ -2290,18 +2294,16 @@ input, select, textarea {
 		/* Articles */
 
 			#Aboutme {
-/*				text-align: left;*/
 				padding: 5em 0;
 			}
-                #social {
-                    /* padding-left: 37%; */
-					text-align: center;
-    				padding-left: inherit;
-                }
 				#Aboutme .image {
 					margin: 0 auto 2em auto;
 				}
-
+        
+            #social {
+                width: 13em;
+                padding-left: 3em;
+            }
 	}
 
 /* Small */
@@ -2510,8 +2512,4 @@ input, select, textarea {
 						margin-top: 0;
 					}
 
-	}
-
-	.remove_underline {
-		text-decoration:none;
 	}
