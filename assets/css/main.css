@@ -2290,7 +2290,9 @@ input, select, textarea {
 				padding: 5em 0;
 			}
                 #social {
-                    padding-left: 37%;
+                    /* padding-left: 37%; */
+					text-align: center;
+    				padding-left: inherit;
                 }
 				#Aboutme .image {
 					margin: 0 auto 2em auto;
