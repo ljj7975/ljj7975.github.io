@@ -1,5 +1,7 @@
 # Why do I blog?
 
+### TLDR: I'm at the age where I can't trust my brain to store all my stupid ideas without jotting them down somewhere.
+
 ![Idea meme](../images/stories/idea_meme.jpeg)
 
 There are times when thoughts follow one another so persistently that I just cannot sleep. I once thought they were just random, useless musings stemming from anxiety because it often happens when I have a lot to do to meet a tight deadline (perhaps stress would be a better word than anxiety). But I've realized that I was actually organizing what I need to do.
