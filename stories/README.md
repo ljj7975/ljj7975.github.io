@@ -1,4 +1,4 @@
-# Why did I start blogging?
+# Why do I blog?
 
 ![Idea meme](../images/stories/idea_meme.jpeg)
 
