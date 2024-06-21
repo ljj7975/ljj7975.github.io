@@ -1,6 +1,6 @@
 # Why do I blog?
 
-### TLDR: I'm at the age where I can't trust my brain to store all my stupid ideas without jotting them down somewhere.
+### TL;DR: I'm at the age where I can't trust my brain to store all my stupid ideas without jotting them down somewhere.
 
 ![Idea meme](../images/stories/idea_meme.jpeg)
 
