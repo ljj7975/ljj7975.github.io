@@ -1,6 +1,6 @@
 ## What is my interest?
 
-### TL;DR: If we cannot interpret, we cannot make any conclusion there cannot use it.
+### TL;DR: If we cannot interpret it, we cannot draw any conclusions and therefore cannot use it.
 
 About a year ago, I began working on few-shot object detection and classification. Throughout my research, I have constantly wondered whether the model truly understands the concept or simply memorizes it based on the examples, especially when reviewing the improved detection accuracy. This question has shaped the direction of my research, but I struggled to clearly describe the end goal due to its dependency on multiple interconnected components. Recently, I had engaging conversations with several very smart people about AI, which helped me finally articulate this in a clear sentence.
 
