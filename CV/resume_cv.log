@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.10.4)  23 JUN 2024 21:10
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.10.4)  5 JUL 2024 23:04
  restricted system commands enabled.
 **resume_cv.tex
 (./resume_cv.tex
@@ -663,32 +663,32 @@ t line 27.
 )
 (./cv-sections/honors.tex) (./cv-sections/experience.tex
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00085pt on input line 40.
+(Font)              scaled to size 8.00085pt on input line 50.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 40.
+(Font)              scaled to size 6.00064pt on input line 50.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 40.
+(Font)              scaled to size 7.99915pt on input line 50.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 40.
+(Font)              scaled to size 5.99936pt on input line 50.
  [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
 (./cv-sections/publications.tex [2]) (./cv-sections/presentation.tex)
-(./cv-sections/teaching.tex) [3] (./resume_cv.aux)
+(./cv-sections/teaching.tex [3]) [4] (./resume_cv.aux)
 Package rerunfilecheck Info: File `resume_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 21694 strings out of 477785
+ 21695 strings out of 477785
  244334,953878 words of node,token memory allocated
  658 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 84 glue_spec,
  8 attribute_list, 1 write, 1 pdf_action nodes
-   avail lists: 1:2,2:3258,3:904,4:740,5:2933,6:354,7:19651,8:61,9:2142,10:17,11
-:1531
+   avail lists: 1:3,2:3394,3:889,4:746,5:2837,6:357,7:19152,8:55,9:2173,10:16,11
+:1479
  41753 multiletter control sequences out of 65536+600000
- 91 fonts using 27117367 bytes
+ 91 fonts using 27117559 bytes
  99i,12n,115p,779b,647s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <./fonts/SourceSansPro-It.otf><./fonts/SourceSansPro-BoldIt.otf></usr/local/texl
 ive/2022/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf></usr/loc
@@ -697,10 +697,10 @@ ts/SourceSansPro-LightIt.otf><./fonts/SourceSansPro-Semibold.otf><./fonts/Source
 SansPro-Light.otf><./fonts/SourceSansPro-Bold.otf><./fonts/Roboto-Regular.ttf><.
 /fonts/FontAwesome.otf><./fonts/SourceSansPro-Regular.otf><./fonts/Roboto-Bold.t
 tf><./fonts/Roboto-Thin.ttf>
-Output written on resume_cv.pdf (3 pages, 68806 bytes).
+Output written on resume_cv.pdf (4 pages, 69764 bytes).
 
-PDF statistics: 167 PDF objects out of 1000 (max. 8388607)
- 121 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 131072)
+PDF statistics: 171 PDF objects out of 1000 (max. 8388607)
+ 124 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
