@@ -12,14 +12,14 @@ This type of method involves the model providing an explanation in natural langu
 - Pros: Natural and intuitive method. No additional resources are necessary as the explanations are generated.
 - Cons: Subjective evaluations make quantitative assessment challenging.
 
-  **2. Retrieving relevant data**:
-  Here, the model identifies relevant information from a data source. For example, we can verify if a model has the right understanding by asking it to select images that best match its understanding.
+**2. Retrieving relevant data**:
+Here, the model identifies relevant information from a data source. For example, we can verify if a model has the right understanding by asking it to select images that best match its understanding.
 
 - Pros: Quantitative evaluation is feasible (e.g., retrieval accuracy).
 - Cons: Heavy reliance on the quality and representativeness of available data.
 
-  **3. Showing reasoning within a limited scope**:
-  When the target task is known, we can verify the model's understanding by reverse engineering how the final outcome is deduced. For example, in the case of computer vision, heatmap visualization can highlight which parts of an image influence its decisions the most, providing insight into the model's understanding within a specific context.
+**3. Showing reasoning within a limited scope**:
+When the target task is known, we can verify the model's understanding by reverse engineering how the final outcome is deduced. For example, in the case of computer vision, heatmap visualization can highlight which parts of an image influence its decisions the most, providing insight into the model's understanding within a specific context.
 
 - Pros: Being specific to the task, it can indicate whether the model possesses the requisite understanding to perform the intended task effectively or not.
 - Cons: Limited to explaining decisions within a predefined scope (e.g., the reasoning is valid only for the input provided and the specific target task it addresses).
