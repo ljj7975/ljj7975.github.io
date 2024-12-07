@@ -67,13 +67,6 @@
                 &nbsp;&nbsp;E-mail</a
               >
               <br />
-              <a
-                style="text-decoration: none"
-                href="https://github.com/ljj7975/ljj7975.github.io/tree/main/blog"
-              >
-                <i class="icon solid fa-pen fa-sm"></i>&nbsp;&nbsp;&nbsp;Blog</a
-              >
-              <br />
               <a style="text-decoration: none" href="CV/resume_cv.pdf">
                 <i class="icon solid fa-file fa-sm"></i
                 >&nbsp;&nbsp;&nbsp;&nbsp;CV</a
@@ -86,24 +79,21 @@
             </header>
             <p>
               As a research scientist at Epson's Computer Vision & Robotics Lab,
-              I am dedicated to developing intelligent 2D and 3D detection
-              systems tailored for non-expert users. I leverage large language
-              models to enhance usability and interpretability while utilizing
-              parameter-efficient fine-tuning techniques to streamline domain
-              adaptation.
+              I am currently developing a 2D vision system that utilizes
+              language to communicate effectively with users and adapt
+              efficiently to dynamic environments.
               <br /><br />
-              Although I currently focus primarily on computer vision, my
-              background is in natural language processing, specifically speech
-              recognition. I was a student at the University of Waterloo,
-              publishing under the guidance of
+              Although my recent work has focused on computer vision and
+              robotics, I completed a master's degree under the guidance of
               <a href="https://cs.uwaterloo.ca/~jimmylin/index.html"
                 >Jimmy Lin</a
-              >. During my time there, I developed a fully productionized,
-              open-source wake word detection toolkit with a web browser
-              deployment target called
-              <a href="https://github.com/castorini/howl">Howl</a>. This toolkit
-              has been adopted by Mozilla's Firefox Voice, providing a
-              completely hands-free experience to users worldwide. <br /><br />
+              >
+              with a focus on natural language processing (NLP), specifically
+              speech recognition. I developed
+              <a href="https://github.com/castorini/howl">Howl</a>, a
+              JavaScript-based keyword spotting system integrated into Mozilla's
+              Firefox Voice to provide a hands-free experience for users
+              worldwide. <br /><br />
               I have also authored a book titled
               <b
                 ><a href="https://a.co/6itHST9"
@@ -112,11 +102,11 @@
               >, which explains how to convert a deep learning model into a
               production-ready application optimized for specific production
               settings. <br /><br />
-              I have recently started
+              When I'm not busy, I like to put my thoughts into writing on
               <a
                 href="https://github.com/ljj7975/ljj7975.github.io/tree/main/blog"
-                >blogging</a
-              >, casually and mostly related to my research.
+                >my blog</a
+              >.
             </p>
           </div>
         </div>
@@ -127,6 +117,23 @@
     <article id="Publication" class="wrapper style2">
       <div class="container medium">
         <h1><i>Publications and Patents</i></h1>
+
+        <h2>2025</h2>
+        <div id="dev">
+          <h3>
+            <b>
+              Mining Public Voices: Analyzing Suicide Related Thoughts and
+              Behaviors in YouTube Videos and Comments Using Topic modeling
+            </b>
+          </h3>
+          <p>
+            Hwayeon Danielle Shin*, <b>Jaejun Lee*</b>, Imam Kassam, Federica
+            Guccini<br />
+            - Future of Health Leadership, Informatics and Policy (FHLIP)
+            2025<br />
+            *Equal contribution
+          </p>
+        </div>
 
         <h2>2022</h2>
         <div id="dev">
@@ -326,21 +333,26 @@
         <div id="dev">
           <img src="images/epson.png" style="width: 180px; height: 90px" />
           &ensp;
-          <h3 style="padding-top: 0px">Research Scientist</h3>
+          <h3 style="padding-top: 0px">
+            Research Scientist - Computer Vision & Robotics Lab
+          </h3>
           <h4>Epson <br />Mar 2023 - current</h4>
           <p>
-            - Conducting research to develop a novel
+            - Conducting research to develop an
             <b>interpretable 2D object and attribute detection</b> system
-            designed for non-expert users<br />
-            &emsp;- Invented a two-stage adapter-based domain adaptation method
-            that utilizes a contrastive loss focused on hard-negative samples<br />
+            tailored for non-technical individuals.<br />
+            &emsp;- Designed a two-stage adapter-based domain adaptation method
+            that utilizes a contrastive loss focused on hard-negative
+            samples.<br />
             &emsp;- Enabling effective verification of the model’s
-            representations by establishing a strong understanding of primitive
-            concepts<br />
+            representations by establishing a strong understanding of
+            context-agnostic foundational concepts.<br />
+            &emsp;- Developing a plug-and-play, non-parametric detection head
+            for vision-language models.<br />
             - Proposed and developed a
-            <b>prompt-based 2D keypoint detection pipeline</b> that eliminates
+            <b>prompt-based 2D keypoint detection</b> pipeline that eliminates
             keypoint-specific training needs while remaining robust in
-            multi-instance scenarios<br />
+            multi-instance scenarios.<br />
           </p>
           <hr />
         </div>
@@ -522,6 +534,53 @@
     <article id="Projects" class="wrapper style1">
       <div class="container medium">
         <h1><i>Projects</i></h1>
+        <div id="dev">
+          <!-- <img src="images/mozilla.jpeg" style="width: 50px; height: 50px" /> -->
+          <!-- &ensp; -->
+          <h3 style="padding-top: 0.5em">
+            Analyzing Suicide Related Thoughts and Behaviors in YouTube Videos
+            and Comments Using Topic modeling
+          </h3>
+          <h4>
+            Feb 2024 - current
+            <!-- &nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://aclanthology.org/2020.nlposs-1.9/"
+              ><i class="fa fa-graduation-cap fa-lg" aria-hidden="true"></i
+            ></a>
+            &ensp;
+            <a
+              href="https://github.com/castorini/howl"
+              class="icon brands fa-github"
+              ><span class="label">Github</span></a
+            >
+            &ensp;
+            <a
+              href="https://www.youtube.com/watch?v=1qtDXNGEukE&ab_channel=RalphTang&t=68s"
+              class="icon brands fa-youtube"
+              ><span class="label">YouTube</span></a
+            > -->
+          </h4>
+          <p>
+            - Collaborated with a psychiatrist and mental health experts to
+            analyze YouTube videos related to suicide-related thoughts and
+            behaviors (SRTB). <br />
+            - Led data collection and quantitative analysis using topic
+            modeling, identifying prominent themes such as drug addiction,
+            physical abuse, and relationship issues across 997 video
+            transcripts.<br />
+            - Presented findings and their potential implications at four mental
+            health conferences.<br />
+            &emsp;- 2025 Future of Health Leadership, Informatics and Policy
+            (FHLIP) Conference <br />
+            &emsp;- 2024 American Medical Informatics Association (AMIA) Annual
+            Symposium <br />
+            &emsp;- 2024 Institute of Health Policy, Management and Evaluation
+            (IHPME) Research & Impact Day <br />
+            &emsp;- 2024 Annual Meeting of the Society for Digital Mental Health
+          </p>
+          <hr />
+        </div>
+
         <div id="dev">
           <img src="images/mozilla.jpeg" style="width: 50px; height: 50px" />
           &ensp;

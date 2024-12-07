@@ -4,7 +4,7 @@
 
 ![Idea meme](../images/stories/idea_meme.jpeg)
 
-There are times when thoughts follow one another so persistently that I just cannot sleep. I once thought they were just random, useless musings stemming from anxiety because it often happens when I have a lot to do to meet a tight deadline (perhaps stress would be a better word than anxiety). But I've realized that I was actually organizing what I need to do.
+There are times when thoughts follow one another so persistently that I just can't sleep. I used to think they were just random, useless thoughts caused by stress, since it usually happens when I have a lot to do and a tight deadline to meet. But I've realized that I was actually organizing what I need to do.
 
 > Gosh, I need to finish this project by next week. I think issue A is the biggest problem. What can I do? Maybe I can try solution A... oh wait, why not solution B? Ah right, solution B wasn't an option because of reasons A, B, and C. Is solution A the most efficient approach? What will I do if it doesn’t work? ...
 
